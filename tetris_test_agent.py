@@ -160,7 +160,7 @@ sys.path.append("/content/")
 # Import các class từ các file
 from agent.Agent import Agent  # Từ agent.zip
 
-print("Đã import thành côngcông.")
+print("Đã import thành công.")
 
 env = TetrisSingleEnv()
 done = False
